@@ -2,7 +2,7 @@
 
 A responsive job board web application built for the Nigerian job market. Browse, post, edit, and delete job listings — all in a clean, fast single-page experience powered by React and a live REST API.
 
-> 📽️ **Demo Video:** _ _
+> 📽️ **Demo Video:** _https://drive.google.com/drive/folders/19P8EMVF2HCrLUmWBO75psbNxWoSgItY8?usp=sharing_
 
 ---
 
