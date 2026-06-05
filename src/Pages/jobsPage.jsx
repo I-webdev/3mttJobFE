@@ -14,11 +14,13 @@ function JobPage() {
     (async () => {
       try {
         await axios.delete(`https://threemttapi-ryoj.onrender.com/${id}`);
+        navigate("/jobs");
+        
       } catch (error) {
         console.error("Error deleting data:", error);
       }
     })();
-    return navigate("/jobs");
+    // return navigate("/jobs", { state: { refresh: true } });
   }
 
 
